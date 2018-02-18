@@ -4,7 +4,11 @@
 
 ### SİTEYİ GÜNCELLEMEK
 
-Sitede değişiklikler yapmadan önce, yeni kodları bu repository'ye pushlamayı unutmayın. Ardından server'a giderek git pull komutunu çalıştırabilirsiniz. Server'a yazılacak kodlar için aşağıdaki aşamaları kullanabilirsiniz:
+Sitede değişiklikler yapmadan önce, yeni kodları bu repository'ye pushlamayı unutmayın. 
+
+**KESİNLİKLE CPANEL ÜZERİNDEN DEĞİŞİKLİK YAPMAYIN!!!** 
+
+Repo'ya pushladıktan sonra server'a giderek git pull komutunu çalıştırabilirsiniz. Server'a yazılacak kodlar için aşağıdaki aşamaları gerçekleştiriniz:
 
 ```
 cd /home1/ituieee/www/kodadigenc
