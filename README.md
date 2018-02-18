@@ -1,6 +1,6 @@
 # KOD ADI GENÇ
 
-kodadigenc.com sitesinin kodlarına bu repository üzerinden ulaşabilirsiniz.
+[KOD ADI GENÇ](http://kodadigenc.com) sitesinin kodlarına bu repository üzerinden ulaşabilirsiniz.
 
 ### SİTEYİ GÜNCELLEMEK
 
